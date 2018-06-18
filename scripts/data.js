@@ -17,6 +17,12 @@ const treehouses = [
     description: 'A centuries-old majestic oak is home to Suite Bleue, one of two tree houses at La Piantata Bed & Breakfast in Italy’s northern Lazio region. The simple red-cedar building was constructed in France by the Provence-based specialty firm La Cabane Perchée and transported to a sprawling field of lavender on the resort’s estate.',
     contributor: 'Wes'
   },
+  {
+    title: 'Berlin Treehouse',
+    img: 'https://static.designboom.com/wp-content/uploads/2015/04/baumraum-urban-treehouse-berlin-zehlendorf-germany-designboom-01.jpg',
+    description: 'Conceived as an experimental research project, this treehouse in Berlin has been designed to serve as an oasis of tranquility set within an urban context. Completed by German design office Baumraum, the scheme seeks to add to the city’s collection of small alternative constructions, while preserving the existing tree population of the 650 square meter site.',
+    contributor: 'Roger'
+  },
 ]
 
 module.exports = {
