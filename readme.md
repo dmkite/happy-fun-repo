@@ -1,6 +1,6 @@
 # Treehouse Git Branch
 
-Project for practicing branching, pulling, and merging with Git and GitHub.
+Project for practicing branching, pulling, and merging with Git and GitHub. Here is my stuff.
 
 ## Instructions
 
