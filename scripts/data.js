@@ -22,7 +22,21 @@ const treehouses = [
     img: 'https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/10/Treehouse-Point-a.jpg',
     description: 'Just outside Seattle in Issaquah, Washington, is the treehouse B&B named TreeHouse Point. The place has six treehouse rooms available.',
     contributor: 'Dylan'
+  },
+  {
+    title: 'Happy Treehouse',
+    img: 'https://www.madewithhappy.com/wp-content/uploads/treehouse-location.jpg',
+    description: 'plastic kids treehouse.',
+    contributor: 'Chris'
+  },
+  {
+    title: 'Treehouse Point',
+    img: 'http://www.treehousepoint.com/images/treehouse-point-banner.jpg',
+    description: 'treehouse in WA.',
+    contributor: 'Sarah'
   }
+
+
 ]
 
 module.exports = {
