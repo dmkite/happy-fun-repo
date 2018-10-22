@@ -21,7 +21,7 @@ const treehouses = [
     title: 'Happy Treehouse',
     img: 'https://www.madewithhappy.com/wp-content/uploads/treehouse-location.jpg',
     description: 'plastic kids treehouse.',
-    contributor: 'Chris'
+    contributor: 'Chrisihler'
   }
 
 
