@@ -16,6 +16,12 @@ const treehouses = [
     img: 'https://media.architecturaldigest.com/photos/55e76412cd709ad62e8e6854/master/w_640,c_limit/dam-images-architecture-2013-07-tree-houses-treehouse-architecture-01-la-piantata-suite-bleue-italy.jpg',
     description: 'A centuries-old majestic oak is home to Suite Bleue, one of two tree houses at La Piantata Bed & Breakfast in Italy’s northern Lazio region. The simple red-cedar building was constructed in France by the Provence-based specialty firm La Cabane Perchée and transported to a sprawling field of lavender on the resort’s estate.',
     contributor: 'Wes'
+  },
+  {
+    title: 'TreeHouse Point',
+    img: 'https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/10/Treehouse-Point-a.jpg',
+    description: 'Just outside Seattle in Issaquah, Washington, is the treehouse B&B named TreeHouse Point. The place has six treehouse rooms available.',
+    contributor: 'Dylan'
   }
 ]
 
